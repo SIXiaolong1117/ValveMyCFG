@@ -9,3 +9,6 @@ mklink "J:\SteamLibrary\steamapps\common\Team Fortress 2\tf\cfg\mytf2.cfg" "E:\D
 ···
 mklink "J:\SteamLibrary\steamapps\common\Half-Life\cstrike\mycs.cfg" "E:\Dev\ValveMyCFG\Counter-Strike\mycs.cfg"
 ···
+···
+mklink "J:\SteamLibrary\steamapps\common\Counter-Strike Source\cstrike\cfg\mycss.cfg" "E:\Dev\ValveMyCFG\Counter-Strike Source\mycss.cfg"
+···
