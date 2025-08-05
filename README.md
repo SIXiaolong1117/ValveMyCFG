@@ -34,3 +34,8 @@ CSGO:
 ```
 mklink "D:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\mycsgo.cfg" "E:\Dev\ValveMyCFG\Counter-Strike Global Offensive\mycsgo.cfg"
 ```
+
+DODS:
+```
+mklink "J:\SteamLibrary\steamapps\common\Day of Defeat Source\dod\cfg\mydods.cfg" "E:\Dev\ValveMyCFG\Day of Defeat Source\mydods.cfg"
+```
