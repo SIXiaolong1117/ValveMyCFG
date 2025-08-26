@@ -14,6 +14,11 @@ mklink "D:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offe
 mklink "D:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\f97cs2basic.cfg" "E:\Dev\ValveMyCFG\Counter-Strike 2\f97cs2basic.cfg"
 ```
 
+DL:
+```
+mklink "D:\Program Files (x86)\Steam\steamapps\common\Deadlock\game\core\cfg\mydl.cfg" "E:\Dev\ValveMyCFG\Deadlock\mydl.cfg"
+```
+
 
 TF2:
 ```
